@@ -1,0 +1,12 @@
+repos:
+- repo: https://github.com/teknofile/pre-commit-terraform
+  rev: v0.0.1 # Get the latest from: https://github.com/antonbabenko/pre-commit-terraform/releases
+  hooks:
+    - id: terraform_validate
+    - id: terraform_fmt
+    - id: terraform_docs
+    - id: terraform_checkov
+#    - id: infracost_breakdown
+    - id: terraform_tflint
+    - id: terraform_tfsec
+#    - id: terrascan
