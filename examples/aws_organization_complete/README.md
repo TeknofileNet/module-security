@@ -27,4 +27,4 @@ No inputs.
 ## Outputs
 
 No outputs.
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->abc@tkf-codeserver-0:~/wor
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
